@@ -22,17 +22,17 @@ Porém, foquei somente em **sites que oferecem algum tipo de serviço dinâmico.
 
 ## Lista das tecnologias
 1. **JavaScript**
-	1. Módulos (Sim, `module.exports` ou `import / export`)
-	2. Manipulação de Arrays (Funções super utilizadas)
+	1. **Módulos (Sim, `require / module.exports` ou `import / export`)**
+	2. **Manipulação de Arrays (Funções super utilizadas)**
 		1. map
 		2. filter
 		3. reducer
 		4. forEach
-	3. Fetch (Requisições à API)
+	3. **Fetch (Requisições à API)**
 2. **Git**
 	1. [Aqui está boa parte do conhecimento de Git que tenho](https://www.youtube.com/watch?v=MW7hrQe6aYo "Todo o conhecimento de Git necessário")
 1. **React Js**
-	1. Estilização e pacote de ícones
+	1. **Estilização e pacote de ícones**
 		1. [Styled Components](https://www.styled-components.com/ "Styled Components")
 		2. [Styled Icons](https://styled-icons.js.org/ "Styled Icons")
 	1. **React Hooks**
@@ -54,15 +54,15 @@ Porém, foquei somente em **sites que oferecem algum tipo de serviço dinâmico.
 		5. Firebase Functions
 	4. **Redux Saga**
 		1. [De Redux Saga eu só sei o básico, e esse básico pode ser encontrado aqui](https://www.youtube.com/watch?v=qU9DesjDJic "De Redux Saga eu só sei o básico, e esse básico pode ser encontrado aqui")
-3. Netlify
+3. **Netlify**
 	1. [Plataforma](http://netlify.com "Plataforma") onde hospedo minhas aplicações React. [Como hospedar lá?](https://www.freecodecamp.org/news/how-to-deploy-a-react-application-to-netlify-363b8a98a985/ "Como hospedar lá?")
-4. Variáveis de Ambiente
+4. **Variáveis de Ambiente**
 	1. Na primeira vez que fui utilizá-las com React perdi 12h por que não sabia que não precisava instalar nenhuma biblioteca adicional e nem que devia começar o nome das variáveis com `REACT_APP`
 	2. O principal que sei sobre como utilizá-las fora do React Js está [aqui](https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/ "aqui")
 3. Node
 	Ainda vou escrever...
 
 ## O que será explicado aqui
-Vou dar o exemplo da minha aplicação To Do List, que não é nenhuma aplicação complexa, mas com ela nós conseguimos envolver algumas das principais tecnologias que citei acima
+Vou dar o exemplo da minha aplicação To Do List, ela não é nenhuma aplicação complexa, mas com ela nós conseguimos envolver algumas das principais tecnologias que citei acima de forma simples e que você pode usar como forma de aprendizado para utilizar na construção de aplicações ainda melhores
 
 
