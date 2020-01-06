@@ -54,7 +54,15 @@ Porém, foquei somente em **sites que oferecem algum tipo de serviço dinâmico.
 		5. Firebase Functions
 	4. **Redux Saga**
 		1. [De Redux Saga eu só sei o básico, e esse básico pode ser encontrado aqui](https://www.youtube.com/watch?v=qU9DesjDJic "De Redux Saga eu só sei o básico, e esse básico pode ser encontrado aqui")
+3. Netlify
+	1. [Plataforma](http://netlify.com "Plataforma") onde hospedo minhas aplicações React. [Como hospedar lá?](https://www.freecodecamp.org/news/how-to-deploy-a-react-application-to-netlify-363b8a98a985/ "Como hospedar lá?")
+4. Variáveis de Ambiente
+	1. Na primeira vez que fui utilizá-las com React perdi 12h por que não sabia que não precisava instalar nenhuma biblioteca adicional e nem que devia começar o nome das variáveis com `REACT_APP`
+	2. O principal que sei sobre como utilizá-las fora do React Js está [aqui](https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/ "aqui")
 3. Node
 	Ainda vou escrever...
+
+## O que será explicado aqui
+Vou dar o exemplo da minha aplicação To Do List, que não é nenhuma aplicação complexa, mas com ela nós conseguimos envolver algumas das principais tecnologias que citei acima
 
 
