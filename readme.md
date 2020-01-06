@@ -62,7 +62,6 @@ Porém, foquei somente em **sites que oferecem algum tipo de serviço dinâmico.
 3. Node
 	Ainda vou escrever...
 
-## O que será explicado aqui
-Vou dar o exemplo da minha aplicação To Do List, ela não é nenhuma aplicação complexa, mas com ela nós conseguimos envolver algumas das principais tecnologias que citei acima de forma simples e que você pode usar como forma de aprendizado para utilizar na construção de aplicações ainda melhores
-
+## Uma breve explicação do Backend das minhas aplicações
+Durante minhas aplicações, eu não costumo misturar Node Js com Firebase, afinal, o Firebase já oferece uma série de serviços para serem consumidos, portanto não faz sentido utilizar o Node e Firebase na mesma aplicação, como diz  [este post](https://blog.rocketseat.com.br/firebase/ "este post") da Rocketseat.
 
