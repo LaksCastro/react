@@ -29,7 +29,7 @@ Porém, foquei somente em **sites que oferecem algum tipo de serviço dinâmico.
 		3. reducer
 		4. forEach
 	3. Fetch (Requisições à API)
-2. Git
+2. **Git**
 	1. [Aqui está boa parte do conhecimento de Git que tenho](https://www.youtube.com/watch?v=MW7hrQe6aYo "Todo o conhecimento de Git necessário")
 1. **React Js**
 	1. Estilização e pacote de ícones
