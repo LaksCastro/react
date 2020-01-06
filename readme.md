@@ -4,12 +4,13 @@
 Daqui para baixo vamos falar da Stack React Js, que inclui React Js (não me diga :O), Node Js, utilizando API Rest, ou Firebase no Backend e outras subtecnologias que vamos citar mais a frente.
 
 ## Tipos de aplicações
-Na Web existem diferentes tipos e formatos de sites, dentre eles podemos destacar: (O tipo, e em seguida um exemplo)
+Na Web existem diferentes tipos e formatos de sites, dentre eles podemos destacar: (O tipo, e em seguida um exemplo) Ps: uma dica pra diferenciar com mais facilidade: Sites **estáticos**: Sites que **independente** do usuário, o conteúdo **não vai mudar**, já os **dinâmicos** é o contrário, **de acordo com o usuário, o conteúdo do site irá mudar**
 - Blogs (Sites estáticos),
 	- [Blog do Willian Justen](https://willianjusten.com.br/ "Blog do Willian Justen")
 - Serviços (Sites dinâmicos)
 	- [O próprio GitHub](http://github.com "O próprio GitHub")
 	- [A plataforma da Netflix](https://www.netflix.com/br/ "A plataforma da Netflix")
+	- [O Twitter](http://twitter.com "O Twitter")
 - Sites institucionais (Sites estáticos)
 	- [Single page do freelancer Jack](https://jacekjeznach.com/ "Single page do freelancer Jack")
 	- Também poderia ser uma single page de uma instituição
