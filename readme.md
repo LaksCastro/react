@@ -59,9 +59,24 @@ Porém, foquei somente em **sites que oferecem algum tipo de serviço dinâmico.
 4. **Variáveis de Ambiente**
 	1. Na primeira vez que fui utilizá-las com React perdi 12h por que não sabia que não precisava instalar nenhuma biblioteca adicional e nem que devia começar o nome das variáveis com `REACT_APP`
 	2. O principal que sei sobre como utilizá-las fora do React Js está [aqui](https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/ "aqui")
-3. Node
-	Ainda vou escrever...
+3. **Node**
+    1. Iniciando
+        1. Rotas
+        2. Requisições
+        3. Middlewares
+        4. Entender esse fluxo de funcionamento BackEnd (Requisição, resposta)
+        4. Começando com o Framework Express
+    2. Primeiro Banco de Dados
+        1. Banco de dados não relacional MongoDB (MongoDB Atlas o nome do serviço pra usar como um banco de dados remoto e conectar ao Node Js)
+    7. Modelo MVC, porém apenas com o MC (Model e Controller), a View fica por parte do React
+    8. Tratativa de arquivos no Node Js
+        1. Biblioteca **Multer** para tratativa de arquivos (Imagens, Vídeos, etc...) A Rocketseat fez [uma série](https://www.youtube.com/watch?v=MkkbUfcZUZM "uma série") usando essa biblioteca.
+    6. API Rest, [esse vídeo](https://www.youtube.com/watch?v=MkkbUfcZUZM "esse vídeo") explica muito bem na teoria.
+    7. Nota: Tudo isso é ensinado na semana omnistack, exceto pela biblioteca Multer (Pelo menos não na Omnistack 8 e 9)
 
 ## Uma breve explicação do Backend das minhas aplicações
 Durante minhas aplicações, eu não costumo misturar Node Js com Firebase, afinal, o Firebase já oferece uma série de serviços para serem consumidos, portanto não faz sentido utilizar o Node e Firebase na mesma aplicação, como diz  [este post](https://blog.rocketseat.com.br/firebase/ "este post") da Rocketseat.
+
+## Inciando
+
 
