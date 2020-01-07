@@ -75,8 +75,30 @@ Porém, foquei somente em **sites que oferecem algum tipo de serviço dinâmico.
     7. Nota: Tudo isso é ensinado na semana omnistack, exceto pela biblioteca Multer (Pelo menos não na Omnistack 8 e 9)
 
 ## Uma breve explicação do Backend das minhas aplicações
-Durante minhas aplicações, eu não costumo misturar Node Js com Firebase, afinal, o Firebase já oferece uma série de serviços para serem consumidos, portanto não faz sentido utilizar o Node e Firebase na mesma aplicação, como diz  [este post](https://blog.rocketseat.com.br/firebase/ "este post") da Rocketseat.
+Durante minhas aplicações, eu não costumo misturar Node com Firebase, afinal, o Firebase já oferece uma série de serviços para serem consumidos, portanto não faz sentido utilizar o Node e Firebase na mesma aplicação, como diz  [este post](https://blog.rocketseat.com.br/firebase/ "este post") da Rocketseat.
 
-## Inciando
+## Começando os exercícios
+Aqui você começa alguns dos exercícios para por em prática tudo o que você está estudando, para no fim já conseguirmos criar uma aplicação completa, os primeiros exercícios serão apenas no estilo "foo bar", mas os seguintes já serão aplicações completas (Note bem: **completas**, não quis dizer **complexas** nem **profissionais**, afinal, também estou estudando pra chegar nesse nível).
+
+### Iniciando no React Js
+
+##### Estrutura de pastas
+Após dar um `create react-app your-app`, organize a sua estrutura de pastas para [se parecer com esta](https://medium.com/reactbrasil/react-estruturando-projetos-e-nomeando-componentes-b62ddad69a11) para ajudar na legibilidade e organização do código. Essa estrutura aprendi na semana Omnistack 8, mas este post acima do Medium, explica mais detalhadamente e explica a razão. 
+
+##### 1. Todo List
+- ##### Tecnologias a serem utilizadas
+Crie uma aplicação de To Do List (clássica) utilizando os principais Hooks do React:
+
+1. useState
+2. useEffect
+3. useRef
+
+Nesta mesma aplicação, utilize o styled components para a estilização dos seus componentes
+
+- ##### Features
+A aplicação deve ter uma forma de criar uma tarefa (Um To Do) através de um **input** ou uma **div-content-editable**, marcar como completa, desmarcar, editar, deletar.
+
+- ##### Páginas
+Uma página para a listagem de To Do's
 
 
