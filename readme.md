@@ -93,7 +93,7 @@ Crie uma aplicação de To Do List (clássica) utilizando os principais Hooks do
 2. useEffect
 3. useRef
 
-Nesta mesma aplicação, utilize o styled components para a estilização dos seus componentes
+Nesta mesma aplicação, utilize o styled components para a estilização dos seus componentes, e explore a funcionalidade de passar props entre o componente no jsx e o componente estilizado
 
 - ##### Features
 A aplicação deve ter uma forma de criar uma tarefa (Um To Do) através de um **input** ou uma **div-content-editable**, marcar como completa, desmarcar, editar, deletar.
